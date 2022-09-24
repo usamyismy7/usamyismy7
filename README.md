@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @usamyismy7
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Artificial Intelligence
+- 🌱 I’m currently learning BlockChain technology
 - 💞️ I’m currently working on something cool!
 - 📫 How to reach me https://www.facebook.com/usamyismy/
 
