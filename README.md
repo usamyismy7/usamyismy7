@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning MERN Stack (MongoDB, Express, React & Node)
 - 💞️ I’m currently working on something cool!
-- 📫 How to reach me https://www.facebook.com/usamyismy/
+- 📫 How to reach me usamyharis@yahoo.com
 
 <!---
 usamyismy7/usamyismy7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
