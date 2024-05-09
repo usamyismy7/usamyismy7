@@ -10,7 +10,7 @@ Experienced Frontend Developer holding a Bachelor’s degree in Computer Science
 Intelligence. With a proven track record and 3 years of experience in web development through freelance work and personal 
 projects, I have demonstrated proficiency in crafting interactive and user-friendly web interfaces.
 
-- 🎓 [Final Year Project:](https://cdc.cuiwah.edu.pk/Event/Project/5564)
+- 🎓 [Final Year Project](https://cdc.cuiwah.edu.pk/Event/Project/5564)
 - 💼 [Portfolio](https://bit.ly/usama-portfolio-projects)
 
 ### 🔭 Current Focus                                        
