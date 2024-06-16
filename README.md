@@ -6,9 +6,8 @@ Technologies</h3>
 
 ### About Me
 
-Experienced Frontend Developer holding a Bachelor’s degree in Computer Science and a recognized certificate in Artificial 
-Intelligence. With a proven track record and 3 years of experience in web development through freelance work and personal 
-projects, I have demonstrated proficiency in crafting interactive and user-friendly web interfaces.
+Proficient Frontend Developer holding a Bachelor’s degree in Computer Science and a recognized certificate in Artificial 
+Intelligence. With a proven track record and 3 years of industry experience in web development, I have demonstrated proficiency in crafting interactive and user-friendly web interfaces. My work spans freelance projects and full-time employment, showcasing my ability to deliver high-quality, scalable solutions.
 
 - 🎓 [Final Year Project](https://cdc.cuiwah.edu.pk/Event/Project/5564)
 - 💼 [Portfolio](https://bit.ly/usama-portfolio-projects)
